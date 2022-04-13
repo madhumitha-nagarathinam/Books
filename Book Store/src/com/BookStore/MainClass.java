@@ -11,7 +11,7 @@ public static void main(String[] args) {
 	        Book book = new Book();
 	        book.initializeBooks();
 	        
-	        System.out.println("MAGIC OF BOOKS");
+	        System.out.println("Book Store");
 	        System.out.println(" \n[2] User \n[3] Exit");
 	        
 	        Scanner input = new Scanner(System.in);
